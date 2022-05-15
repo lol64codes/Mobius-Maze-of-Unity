@@ -1,5 +1,5 @@
 ## Inspiration
-It came out of desperation, as we had basically no ideas.  We eventually decided, almost sarcastically, to use the Möbius strip, since _ aCcOrDiNg To tHe InTeRnEt _, it is a symbol for unity.
+It came out of desperation, as we had basically no ideas.  We eventually decided, almost sarcastically, to use the Möbius strip, since _aCcOrDiNg To tHe InTeRnEt_, it is a symbol for unity.
 ## What it does
 In our project, the player finds itself on a maze on a Möbius strip. Go play and try it out!
 ## How we built it
